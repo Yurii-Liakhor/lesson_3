@@ -1,4 +1,4 @@
-package com.lessons.lesson_3.controllers;
+package com.lessons.lesson_3.model;
 
 import lombok.Data;
 

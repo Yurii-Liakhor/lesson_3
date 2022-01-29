@@ -1,5 +1,6 @@
 package com.lessons.lesson_3.controllers;
 
+import com.lessons.lesson_3.model.Car;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.ui.ModelMap;

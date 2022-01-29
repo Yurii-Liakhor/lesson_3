@@ -6,7 +6,7 @@
 </head>
 <body>
 <h2>Car Information</h2>
-<form:form method = "POST" action = "/004_Samples_war_exploded/add_car">
+<form:form method = "POST" action = "/lesson_3_1_war_exploded/add_car">
     <table>
         <tr>
             <td><form:label path = "manufacturer">Manufacturer</form:label></td>
